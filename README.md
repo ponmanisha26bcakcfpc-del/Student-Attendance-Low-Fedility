@@ -1,7 +1,12 @@
 # Student-Attendance-Low-Fedility
+
+Design Link
 https://www.figma.com/design/ghQ46C1Tri3GL9P1DkhFVT/Untitled?node-id=0-1&p=f&t=N6V3EmMnb5Bdztbu-0
+
+Prototype link
 https://www.figma.com/design/ghQ46C1Tri3GL9P1DkhFVT/Untitled?node-id=0-1&m=dev&t=N6V3EmMnb5Bdztbu-1
-Student Attendance App UI Design – Low-Fidelity
+
+
 ✨ Project Overview
 
 This is a Student Attendance App Low-Fidelity UI Design created using Figma. The application provides a simple interface for students and teachers to manage attendance, view attendance records, check attendance percentage, and monitor daily attendance.
