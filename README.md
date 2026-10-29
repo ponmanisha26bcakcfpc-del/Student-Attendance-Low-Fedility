@@ -6,7 +6,7 @@ https://www.figma.com/design/ghQ46C1Tri3GL9P1DkhFVT/Untitled?node-id=0-1&p=f&t=N
 
 Prototype link
 
-https://www.figma.com/proto/FTdeqMWNVzJNWSdU9Vlts2/Untitled?node-id=3-3&t=mrHDnAv6WosEEzGN-1
+https://www.figma.com/proto/ghQ46C1Tri3GL9P1DkhFVT/Untitled?node-id=6-12&t=mrHDnAv6WosEEzGN-1
 
 
 
