@@ -1,10 +1,13 @@
 # Student-Attendance-Low-Fedility
 
 Design Link
+
 https://www.figma.com/design/ghQ46C1Tri3GL9P1DkhFVT/Untitled?node-id=0-1&p=f&t=N6V3EmMnb5Bdztbu-0
 
 Prototype link
-https://www.figma.com/design/ghQ46C1Tri3GL9P1DkhFVT/Untitled?node-id=0-1&m=dev&t=N6V3EmMnb5Bdztbu-1
+
+https://www.figma.com/proto/FTdeqMWNVzJNWSdU9Vlts2/Untitled?node-id=3-3&t=mrHDnAv6WosEEzGN-1
+
 
 
 ✨ Project Overview
